@@ -1,2 +1,2 @@
-# gochain
- A simple blockchain implemented in go
+# GoChain
+ A simple blockchain implemented in go.
